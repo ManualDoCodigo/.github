@@ -1,7 +1,7 @@
 ## Hi, my name is Douglas Diniz and this is the repository for my YouTube channel Manual do Código 👋
 
 <div align="center">
-  <a href="https://github.com/dgdiniz">
+  <a href="https://github.com/manualdocodigo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgdiniz&show_icons=true&theme=radical&count_private=true"/>
 </div>
 
