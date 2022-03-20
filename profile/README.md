@@ -3,7 +3,6 @@
 <div align="center">
   <a href="https://github.com/dgdiniz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgdiniz&show_icons=true&theme=radical&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgdiniz&layout=compact&theme=radical"/>
 </div>
 
 <div style="display: inline_block"><br>
